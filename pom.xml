@@ -98,7 +98,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git@github.com:lukasbirka/stfg-pet-clinic.gitt</developerConnection>
+        <developerConnection>scm:git@github.com:lukasbirka/stfg-pet-clinic.git</developerConnection>
       <tag>sfg-pet-clinic-0.0.6</tag>
   </scm>
 
